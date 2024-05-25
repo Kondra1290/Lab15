@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.DBusServices
+Exec=/usr/bin/ru.auroraos.DBusServices
+Name=D-Bus Services
+Name[ru]=Службы D-Bus
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=DBusServices
+ExecDBus=/usr/bin/ru.auroraos.DBusServices
